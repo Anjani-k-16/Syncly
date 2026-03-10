@@ -1,1 +1,1 @@
-# Syncly
+Syncly is a real-time chat application that allows multiple users to communicate instantly through a web interface. It uses WebSocket-based communication to deliver messages in real time without refreshing the page.
